@@ -1,6 +1,6 @@
-# ovr-sockets
+# socket project
 
-Sockets code for OVR
+Socket implementation source code
 
 ## Steps
 
